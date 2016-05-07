@@ -1,0 +1,8 @@
+package br.edu.ifba.mobile.wmobile.sai.helpdesk;
+
+import javax.faces.bean.ManagedBean;
+
+@ManagedBean(name="atende")
+public class Atendimento {
+
+}

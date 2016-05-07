@@ -1,0 +1,10 @@
+package br.edu.ifba.mobile.wmobile.sai.helpdesk;
+
+import javax.faces.bean.ManagedBean;
+import javax.faces.bean.SessionScoped;
+
+@ManagedBean(name="atende")
+@SessionScoped
+public class Atendimento {
+
+}
